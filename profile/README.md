@@ -1,5 +1,5 @@
 
-<h1 align="center">🎒 Escape from Tarkov Strategy Companion</h1>
+<h1 align="center">🎒 Escape from Tarkov Cheat</h1>
 
 <p align="center">
   <strong>Prepare. Deploy. Extract.</strong>
